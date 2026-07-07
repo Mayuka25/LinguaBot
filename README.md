@@ -63,7 +63,7 @@ LinguaBot provides accurate answers instantly in multiple Indian languages, redu
 - Secure server-side API management
 - Automatic updates from college circulars
 
-## 👩‍💻 Developed By
+##  Developed By
 
 **Mayuka M**  
 B.E. Electronics and Communication Engineering  
